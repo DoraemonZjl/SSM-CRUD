@@ -1,0 +1,13 @@
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\bean\Employee.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\dao\EmployeeMapper.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\test\MBGTest.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\bean\DepartmentExample.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\service\DepartmentService.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\controller\DepartmentController.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\controller\EmployeeController.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\bean\Msg.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\bean\Department.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\service\EmployeeService.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\test\TestCRUD.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\bean\EmployeeExample.java
+D:\Workspaces\crud_ssm\src\main\java\com\kayoshi\crud\dao\DepartmentMapper.java
